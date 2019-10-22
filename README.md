@@ -2,7 +2,8 @@
 detect mathods
   array
   sequencing
-SKCM databases
+
+#SKCM databases
   RNA
   SNV
   CNV
