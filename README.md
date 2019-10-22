@@ -8,7 +8,7 @@
 
 -RNA
 
-  -SNV
+  -SNV 
   -CNV
   -clinial(meta)
   
