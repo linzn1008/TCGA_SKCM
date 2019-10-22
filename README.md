@@ -1,16 +1,16 @@
 # melanoma
-detect mathods
+detect mathods 
   array
   sequencing
 
-#SKCM databases
+# SKCM databases
   RNA
   SNV
   CNV
   clinial(meta)
   
 
-biomarker
+# biomarker
   PDL1 expression
   TIL
   MSI
@@ -18,3 +18,4 @@ biomarker
   TMB(tumor mutation burden)
   MATH()
   inheterogeneity
+  
