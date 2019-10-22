@@ -1,11 +1,11 @@
 # melanoma
 
-detect mathods 
+ detect mathods 
   -array
   -sequencing
 
 # SKCM databases
-  -RNA
+-RNA
   -SNV
   -CNV
   -clinial(meta)
